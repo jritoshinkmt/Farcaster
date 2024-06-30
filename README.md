@@ -106,9 +106,8 @@ screen -r farcaster
 <br>
 
 > [!IMPORTANT]
-> After completing all steps, you can check the node's status on your browser:
-> - Navigate to `http://<YourServerIP>:3000`
-> 
+> After completing all steps, you can check the node's status on your browser: `http://<YourServerIP>:3000`
+> ![image](https://github.com/jritoshinkmt/Farcaster/assets/80070027/460f1f0a-c294-47f3-b3d1-4e0a7246f7dd)
 > _It may take a few hours to verify if the node has launched successfully._
 
 ---

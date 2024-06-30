@@ -105,13 +105,6 @@ screen -r farcaster
 
 <br>
 
-If your node stops running or a new version is available, update it using:
-```
-cd ~/hubble && ./hubble.sh upgrade
-```
-
-<br>
-
 > [!IMPORTANT]
 > After completing all steps, you can check the node's status on your browser:
 > - Navigate to `http://<YourServerIP>:3000`
